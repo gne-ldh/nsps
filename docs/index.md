@@ -1,4 +1,4 @@
-# Enrolment for CATS training course?
+# Enrolment for CATS training course
 
 At the bottom of [https://ese.gndec.ac.in/nps/enrol/index.php?id=263](https://ese.gndec.ac.in/nps/enrol/index.php?id=263)
 enter enrolment key (it may ask for login, if you are not logged-in already). Select enrolment key from the table given 
